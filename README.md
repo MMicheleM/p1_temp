@@ -1,9 +1,50 @@
-p1_temp
-=======
+puts "  @@@     @@@   @@@     @@@   @@@     @@@   @@@     @@@   @@@     @@@   @@@     @@@   @@@     @@@   @@@     @@@   @@@     @@@"
+puts " @   @   @   @ @   @   @   @ @   @   @   @ @   @   @   @ @   @   @   @ @   @   @   @ @   @   @   @ @   @   @   @ @   @   @   @"
+puts " @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @"
+puts "  @         @   @         @   @         @   @         @   @         @   @         @   @         @   @         @   @         @"
+puts "   @       @     @       @     @       @     @       @     @       @     @       @     @       @     @       @     @       @ "
+puts "    @     @       @     @       @     @       @     @       @     @       @     @       @     @       @     @       @     @ "
+puts "     @   @         @   @         @   @         @   @         @   @         @   @         @   @         @   @         @   @ "
+puts "      @ @           @ @           @ @           @ @           @ @           @ @           @ @           @ @           @ @"
+puts "       @             @             @             @             @             @             @             @             @"
 
-FOR RAKE FILE
+puts ""
+puts ""
+puts ""
 
-desc "populate the test database with sample data"
-task "db:populate" do
-  StudentsImporter.import
-end
+puts "            SSSSSSS   WWWW               WWWW  EEEEEEEEEEE   EEEEEEEEEEE   TTTTTTTTTTTT  "
+puts "          SS           WWW               WWW   EEE           EEE           TTTTTTTTTTTT  "
+puts "            SS          WW       W       WW    EEE           EEE               TTT       "
+puts "              SS         W      W  W     W     EEEEE         EEEEE             TTT       "
+puts "                SS        W    W    W   W      EEEEE         EEEEE             TTT       "
+puts "                SS        WW W      W WW       EEE           EEE               TTT       "
+puts "                 SS        WW        WW        EEE           EEE               TTT       "
+puts "            SSSSSS          W        W         EEEEEEEEEE    EEEEEEEEEEE       TTT       "
+
+puts ""
+puts ""
+puts ""
+
+puts "  NNN        NN    @@@     @@@    TTTTTTTTTTTT  HHH     HHH   IIIIIIIIIII   NNN        NN     GGGGGGGGGGGG      SSSSSSS   "
+puts "  NN N       NN   @   @   @   @   TTTTTTTTTTTT  HHH     HHH       III       NN N       NN    GG                SS         "
+puts "  NN  NN     NN   @    @ @    @       TTT       HHH     HHH       III       NN  NN     NN    GG                 SS        "
+puts "  NN   NN    NN    @         @        TTT       HHH     HHH       III       NN   NN    NN    GG                  SS       "
+puts "  NN    NN   NN     @       @         TTT       HHHHHHHHHHH       III       NN    NN   NN    GG                   SS      "
+puts "  NN     NN  NN      @     @          TTT       HHH     HHH       III       NN     NN  NN    GG     GGGGGGG        SS     "
+puts "  NN      NN NN       @   @           TTT       HHH     HHH       III       NN      NN NN    GG        GG           SS    "
+puts "  NN        NNN        @ @            TTT       HHH     HHH       III       NN        NNN    GG        GG           SS    "
+puts "  NN        NNN         @             TTT       HHH     HHH   IIIIIIIIIII   NN        NNN     GGGGGGGGGGGG     SSSSSS     "
+
+puts ""
+puts ""
+puts ""
+
+puts "  @@@     @@@   @@@     @@@   @@@     @@@   @@@     @@@   @@@     @@@   @@@     @@@   @@@     @@@   @@@     @@@   @@@     @@@"
+puts " @   @   @   @ @   @   @   @ @   @   @   @ @   @   @   @ @   @   @   @ @   @   @   @ @   @   @   @ @   @   @   @ @   @   @   @"
+puts " @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @ @    @"
+puts "  @         @   @         @   @         @   @         @   @         @   @         @   @         @   @         @   @         @"
+puts "   @       @     @       @     @       @     @       @     @       @     @       @     @       @     @       @     @       @ "
+puts "    @     @       @     @       @     @       @     @       @     @       @     @       @     @       @     @       @     @ "
+puts "     @   @         @   @         @   @         @   @         @   @         @   @         @   @         @   @         @   @ "
+puts "      @ @           @ @           @ @           @ @           @ @           @ @           @ @           @ @           @ @"
+puts "       @             @             @             @             @             @             @             @             @"
